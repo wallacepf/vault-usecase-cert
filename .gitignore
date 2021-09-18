@@ -1,0 +1,4 @@
+vault/
+*.pem
+*.crt
+certs/
