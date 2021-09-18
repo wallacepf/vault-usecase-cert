@@ -2,3 +2,4 @@ vault/
 *.pem
 *.crt
 certs/
+.DS_Store
