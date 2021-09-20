@@ -3,3 +3,4 @@ vault/
 *.crt
 certs/
 .DS_Store
+misc.txt

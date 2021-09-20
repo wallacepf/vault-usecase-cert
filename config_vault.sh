@@ -133,6 +133,7 @@ vault auth enable cert
 vault write auth/cert/certs/user1 \
 display_name=user1 \
 policies=user1 \
+# token_bound_cidrs="127.0.0.1" \
 certificate=@certs/client/user1-cert-certificate.pem
 
 Menu
